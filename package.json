@@ -1,6 +1,7 @@
 {
-	"author": "Richard OBrien",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Richard OBrien",
+	"description": "a description of this package lol",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
